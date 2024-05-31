@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #[em Grocery Inventory].
+
+  h2 Dynamic content
+
+  p The inventory has the following counts:
+
+  ul
+    li #[strong Items:] !{item_count}
+    li #[strong Categories:] !{category_count}

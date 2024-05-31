@@ -1,0 +1,1 @@
+An inventory system for keeping stock of grocery items
