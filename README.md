@@ -2,4 +2,5 @@
 
 A Basic Full Stack Grocery Inventory app, where Items and Categories can be viewed, added and removed.
 
-![Screenshot from 2024-08-14 16-35-58](https://github.com/user-attachments/assets/d81946d3-5a7f-40eb-8737-659c754287be)
+
+![Screenshot 2024-08-15 at 15-54-25 Groceries Inventory](https://github.com/user-attachments/assets/a84d35e3-9c7b-40d4-b320-9def019dffb3)
