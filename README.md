@@ -1,8 +1,6 @@
 # Groceries Inventory Project
 
-A Basic Full Stack Grocery Inventory app, where Items and Categories can be viewed, added and removed.
-
-Created using NodeJS.
+A Full Stack MERN Grocery Inventory app, where Items and Categories can be viewed, added and removed.
 
 The live app: https://shelled-rare-parade.glitch.me/
 
